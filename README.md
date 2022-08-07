@@ -76,17 +76,59 @@ IVRE is an open-source network recon platform that uses Web interfaces, CLI tool
 IVRE include tools for executing Nmap against targets such as an organization or a range of locations, an entire country, a specific AS, or the full related IPv4 address space. Use your output results to differentiate between comparable hosts and other situations. Similarly, IVRE looks to be more suited to hackers, coders, or potential pen analyzers than the Shodan search engine, though hackers may use all three.
 ```
 
+
 ## Other OSINT tools
 
 - [x] [https://www.osinttechniques.com/osint-tools.html](https://www.osinttechniques.com/osint-tools.html)
-- [x]
+- Collection of OSINT tools
+
+- [x] [https://www.nexvisionlab.com/](https://www.nexvisionlab.com/)
+- real-time intelligence from the Whole Web (Clear Web, Dark Web, and Social Media)
+
+- [https://sociallinks.io/](https://sociallinks.io/)
+-  Extract, analyse and visualise data from open sources including social media, messengers, blockchains, and the Dark Web.
+
+- [Maltego](https://www.paterva.com/index.php)
+- This open-source intelligence tool is mainly used to perform a significant exploration against various targets with the help of several in-built transforms (and also provides the capability to write custom ones)
+
+- [TheHarvester](https://github.com/laramies/theHarvester)
+-  Is an amazing tool for finding emails, subdomains, IPs, etc. from various public data.
+Eg.
+```bash
+python theHarvester.py -d geekflare.com -v -b dnsdumpster
+```
+- [SpiderFoot](https://www.spiderfoot.net/)
+- It has automatically enabled us to use queries over 100+ OSINT sources to grab the intelligence on emails, names, IP addresses, domain names, etc. It collects an extensive range of information about a target, such as netblocks, e-mails, web servers, and many more. Using Spiderfoot, you may able to target as per your requirement because it will collect the data by understanding how they are related to each other
+
+- [Creepy](https://www.geocreepy.com/)
+- is an open-source Geolocation intelligence tool. It collects information about Geolocation by using various social networking platforms and image hosting services that are already published somewhere else.
+
+## Google is Not the Only Search Engine:
+
+- [x] [Bing.com](http://bing.com/)
+
+ - By Microsoft is the second largest search engine. It also has advanced search features
+
+- [x] [Duckduckgo.com](https://duckduckgo.com/)
+
+- Search engine used by Tor browser because of it's anonymity. 
+
+- [x] [Baidu.com](https://www.baidu.com/) 
+ - is a large Chinese search engine.
+
+- [x] [Yandex.com](https://yandex.com/)
+-  is a large Russian search engine.
+
 
 
 - [] Reference
 - [x] [https://aofirs.org/articles/hacker-search-engines](https://aofirs.org/articles/hacker-search-engines)
+
+
 
 ## Links
 
 - [x] [https://techcrunch.com/2017/03/09/names-and-definitions-of-leaked-cia-hacking-tools/](https://techcrunch.com/2017/03/09/names-and-definitions-of-leaked-cia-hacking-tools/)
 
 - [https://wikileaks.org/+-Intelligence-+.html](https://wikileaks.org/+-Intelligence-+.html)
+- [https://andreafortuna.org/2017/03/16/my-personal-list-of-osint-sources-search-tools/](https://andreafortuna.org/2017/03/16/my-personal-list-of-osint-sources-search-tools/)
