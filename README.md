@@ -75,6 +75,18 @@ IVRE is an open-source network recon platform that uses Web interfaces, CLI tool
 
 IVRE include tools for executing Nmap against targets such as an organization or a range of locations, an entire country, a specific AS, or the full related IPv4 address space. Use your output results to differentiate between comparable hosts and other situations. Similarly, IVRE looks to be more suited to hackers, coders, or potential pen analyzers than the Shodan search engine, though hackers may use all three.
 ```
+
+## Other OSINT tools
+
+- [x] [https://www.osinttechniques.com/osint-tools.html](https://www.osinttechniques.com/osint-tools.html)
+- [x]
+
+
 - [] Reference
 - [x] [https://aofirs.org/articles/hacker-search-engines](https://aofirs.org/articles/hacker-search-engines)
 
+## Links
+
+- [x] [https://techcrunch.com/2017/03/09/names-and-definitions-of-leaked-cia-hacking-tools/](https://techcrunch.com/2017/03/09/names-and-definitions-of-leaked-cia-hacking-tools/)
+
+- [https://wikileaks.org/+-Intelligence-+.html](https://wikileaks.org/+-Intelligence-+.html)
