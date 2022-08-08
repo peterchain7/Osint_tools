@@ -1,8 +1,8 @@
-# tools
+# Tools
 
 This repository is for TOOLS
 
-## List of Best Hacker Friendly Search Engines.
+## List of Best Hacker Friendly Search Engines and sources of OSINT.
 
 
 
@@ -121,14 +121,15 @@ python theHarvester.py -d geekflare.com -v -b dnsdumpster
 
 
 
-- [] Reference
+- [x] REFERENCE
+
 - [x] [https://aofirs.org/articles/hacker-search-engines](https://aofirs.org/articles/hacker-search-engines)
 
 
 
 ## Links
 
-- [x] [https://techcrunch.com/2017/03/09/names-and-definitions-of-leaked-cia-hacking-tools/](https://techcrunch.com/2017/03/09/names-and-definitions-of-leaked-cia-hacking-tools/)
+<!-- - [x] [https://techcrunch.com/2017/03/09/names-and-definitions-of-leaked-cia-hacking-tools/](https://techcrunch.com/2017/03/09/names-and-definitions-of-leaked-cia-hacking-tools/)
 
 - [https://wikileaks.org/+-Intelligence-+.html](https://wikileaks.org/+-Intelligence-+.html)
-- [https://andreafortuna.org/2017/03/16/my-personal-list-of-osint-sources-search-tools/](https://andreafortuna.org/2017/03/16/my-personal-list-of-osint-sources-search-tools/)
+- [https://andreafortuna.org/2017/03/16/my-personal-list-of-osint-sources-search-tools/](https://andreafortuna.org/2017/03/16/my-personal-list-of-osint-sources-search-tools/) -->
