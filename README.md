@@ -4,8 +4,6 @@ This repository is for TOOLS
 
 ## List of Best Hacker Friendly Search Engines and sources of OSINT.
 
-
-
 [Shodan](https://www.shodan.io/)
 
 - [x] locate specific device on the internet. Eg
@@ -50,9 +48,9 @@ viii. smart TVs, refrigerators, and anything else you can think of.
 
 - [x] gather infromation about the search queries
 
-[Hunter.io](hunter.io)
+[Hunter.io](https://hunter.io/)
 
-- [x] Email Hunter, Is an email search application that helps marketers find contact information for sn domain🌝 
+- [x] Email Hunter, Is an email search application that helps marketers find contact information for  domain 🌝.
 
 [OSINT framework](https://osintframework.com/)
 
