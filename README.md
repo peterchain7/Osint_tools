@@ -101,6 +101,31 @@ python theHarvester.py -d geekflare.com -v -b dnsdumpster
 - [Creepy](https://www.geocreepy.com/)
 - is an open-source Geolocation intelligence tool. It collects information about Geolocation by using various social networking platforms and image hosting services that are already published somewhere else.
 
+- [http://technisette.com](http://technisette.com)
+
+- An OSINT project. sources can be found at [https://start.me/p/ZME8nR/osint](https://start.me/p/ZME8nR/osint)
+
+- [Way back machine](https://web.archive.org/)
+
+- Shows how the site was. Help to show the archived data about about a website.
+
+##### Advanced facebook,instagram, search 
+
+- [https://whopostedwhat.com/](https://whopostedwhat.com/)
+- help to advance searching in facebook
+
+- [https://plessas.net/facebookmatrix](https://plessas.net/facebookmatrix)
+- when your target donot have a facebook profie you can still find him though friends closely to him or her. posts,photos n.k
+
+- [https://www.searchmy.bio/](https://www.searchmy.bio/)
+-  Find some information in instagram bio's
+
+
+#### Validate E-mail address.
+
+- [x] [https://verifalia.com/validate-email](https://verifalia.com/validate-email)
+- [x] [https://tools.emailhippo.com](https://tools.emailhippo.com)
+
 ## Google is Not the Only Search Engine:
 
 - [x] [Bing.com](http://bing.com/)
@@ -118,16 +143,17 @@ python theHarvester.py -d geekflare.com -v -b dnsdumpster
 -  is a large Russian search engine.
 
 
-
-- [x] REFERENCE
+####  REFERENCE
 
 - [x] [https://aofirs.org/articles/hacker-search-engines](https://aofirs.org/articles/hacker-search-engines)
 
 
-
 ## Links
 
-<!-- - [x] [https://techcrunch.com/2017/03/09/names-and-definitions-of-leaked-cia-hacking-tools/](https://techcrunch.com/2017/03/09/names-and-definitions-of-leaked-cia-hacking-tools/)
+- [x] [https://inteltechniques.com/tools/Images.html](https://inteltechniques.com/tools/Images.html)
+- [x] [https://techcrunch.com/2017/03/09/names-and-definitions-of-leaked-cia-hacking-tools/](https://techcrunch.com/2017/03/09/names-and-definitions-of-leaked-cia-hacking-tools/)
+- [x] [https://wikileaks.org/+-Intelligence-+.html](https://wikileaks.org/+-Intelligence-+.html)
+- [x] [https://andreafortuna.org/2017/03/16/my-personal-list-of-osint-sources-search-tools/](https://andreafortuna.org/2017/03/16/my-personal-list-of-osint-sources-search-tools/)
+- [x] [https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/](https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/)
 
-- [https://wikileaks.org/+-Intelligence-+.html](https://wikileaks.org/+-Intelligence-+.html)
-- [https://andreafortuna.org/2017/03/16/my-personal-list-of-osint-sources-search-tools/](https://andreafortuna.org/2017/03/16/my-personal-list-of-osint-sources-search-tools/) -->
+[Surface web, deep web, dark web](/images/webs.jpg)
