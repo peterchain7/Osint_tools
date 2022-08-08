@@ -156,4 +156,9 @@ python theHarvester.py -d geekflare.com -v -b dnsdumpster
 - [x] [https://andreafortuna.org/2017/03/16/my-personal-list-of-osint-sources-search-tools/](https://andreafortuna.org/2017/03/16/my-personal-list-of-osint-sources-search-tools/)
 - [x] [https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/](https://www.sans.org/blog/list-of-resource-links-from-open-source-intelligence-summit-2021/)
 
-[Surface web, deep web, dark web](/images/webs.jpg)
+
+## Images
+
+1. Surface web, Deep web and Dark web
+
+![Surface web, deep web, dark web](/images/webs.jpg)
