@@ -60,12 +60,20 @@ viii. smart TVs, refrigerators, and anything else you can think of.
 [https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 
 - Hunt down social media accounts by username across social networks.
+[https://github.com/x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer)
+
+- Simple Twitter Profile Analyzer
+- Usage:
+
+```bash
+python tweets_analyzer.py -n miounster --limit 3000 -s
+```
 
 [https://www.osintcombine.com/post/foursquare-the-hidden-osint-gem](https://www.osintcombine.com/post/foursquare-the-hidden-osint-gem)
 
 - It is often overlooked as an OSINT source because it is all about business locations, reviews and identifying what is around you at a given time (when using the app). However this platform has 60 million registered users, and 50 million active users every month as of 2019. That's significant and the platform is alive and well.
 
-[Using dig command]()
+[Using dig command](https://linuxize.com/post/how-to-use-dig-command-to-query-dns-in-linux/)
 
 - `Testing SPF, DKIM, and DMARC Using Gmail`
 
