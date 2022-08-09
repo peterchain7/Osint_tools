@@ -65,6 +65,57 @@ viii. smart TVs, refrigerators, and anything else you can think of.
 
 - It is often overlooked as an OSINT source because it is all about business locations, reviews and identifying what is around you at a given time (when using the app). However this platform has 60 million registered users, and 50 million active users every month as of 2019. That's significant and the platform is alive and well.
 
+[Using dig command]()
+
+- `Testing SPF, DKIM, and DMARC Using Gmail`
+
+```bash
+`Sender Policy Framework`
+Sender Policy Framework (SPF) Definition:
+SPF is a form of email authentication that defines a process to validate an email message that has been sent from an authorized mail server in order to detect forgery and to prevent spam.
+```
+
+```bash
+`DKIM (Domain Keys Identified Mail)` 
+is an email authentication technique that allows the receiver to check that an email was indeed sent and authorized by the owner of that domain. This is done by giving the email a digital signature.
+```
+
+```bash
+`standard email authentication method`
+DMARC is a standard email authentication method. DMARC helps mail administrators prevent hackers and other attackers from spoofing their organization and domain. Spoofing is a type of attack in which the From address of an email message is forged.
+```
+[Network tools](https://mxtoolbox.com/NetworkTools.aspx)
+
+- Network tools to test various network services and find some information that woulld be usefull for `penetration testing` and  `Open source Intelligence`
+
+
+#### Testing SPF, DKIM, and DMARC Using Gmail with `dig`.
+
+```bash
+└─$ dig TXT secure-startup.com _dmarc.secure-startup.com
+
+; <<>> DiG 9.18.4-2-Debian <<>> TXT secure-startup.com _dmarc.secure-startup.com
+;; global options: +cmd
+
+;; ANSWER SECTION:
+secure-startup.com.	1800	IN	TXT	"v=spf1 a mx ?all - HTB{RIP_SPF_Always_2nd"
+
+;; AUTHORITY SECTION:
+secure-startup.com.	2225	IN	NS	ns69.domaincontrol.com.
+secure-startup.com.	2225	IN	NS	ns70.domaincontrol.com.
+
+;; ADDITIONAL SECTION:
+ns69.domaincontrol.com.	103648	IN	A	97.74.104.45
+ns70.domaincontrol.com.	103648	IN	AAAA	2603:5:2284::2d
+
+;; ANSWER SECTION:
+_dmarc.secure-startup.com. 1800	IN	TXT	"v=DMARC1;p=none;_F1ddl3_2_DMARC}"
+
+;; AUTHORITY SECTION:
+secure-startup.com.	2210	IN	NS	ns70.domaincontrol.com.
+secure-startup.com.	2210	IN	NS	ns69.domaincontrol.com.
+```
+
 
 [pipl](https://pipl.com/)
 
