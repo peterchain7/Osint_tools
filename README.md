@@ -1,6 +1,6 @@
 # Tools
 
-This repository is for TOOLS
+This repository is for OSINT
 
 ## List of Best Hacker Friendly Search Engines and sources of OSINT.
 
@@ -55,6 +55,11 @@ viii. smart TVs, refrigerators, and anything else you can think of.
 [OSINT framework](https://osintframework.com/)
 
 - [x] Cybersecurity framework that provides a variet of OSINT technoologies too help you with intel and data collection.
+
+
+[https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+
+- Hunt down social media accounts by username across social networks.
 
 [pipl](https://pipl.com/)
 
