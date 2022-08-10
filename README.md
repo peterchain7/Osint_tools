@@ -62,7 +62,7 @@ viii. smart TVs, refrigerators, and anything else you can think of.
 - Hunt down social media accounts by username across social networks.
 [https://github.com/x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer)
 
-- Simple Twitter Profile Analyzer
+- Simple Twitter Profile Analyzer:
 - Usage:
 
 ```bash
