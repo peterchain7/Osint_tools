@@ -60,10 +60,11 @@ viii. smart TVs, refrigerators, and anything else you can think of.
 
 - Intelligence tools to find subdomains
 
-[https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
+- [x] [https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 
 - Hunt down social media accounts by username across social networks.
-[https://github.com/x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer)
+
+- [x] [https://github.com/x0rz/tweets_analyzer](https://github.com/x0rz/tweets_analyzer)
 
 - Simple Twitter Profile Analyzer:
 - Usage:
@@ -72,11 +73,11 @@ viii. smart TVs, refrigerators, and anything else you can think of.
 python tweets_analyzer.py -n miounster --limit 3000 -s
 ```
 
-[https://www.osintcombine.com/post/foursquare-the-hidden-osint-gem](https://www.osintcombine.com/post/foursquare-the-hidden-osint-gem)
+- [x] [https://www.osintcombine.com/post/foursquare-the-hidden-osint-gem](https://www.osintcombine.com/post/foursquare-the-hidden-osint-gem)
 
 - It is often overlooked as an OSINT source because it is all about business locations, reviews and identifying what is around you at a given time (when using the app). However this platform has 60 million registered users, and 50 million active users every month as of 2019. That's significant and the platform is alive and well.
 
-[Using dig command](https://linuxize.com/post/how-to-use-dig-command-to-query-dns-in-linux/)
+- [x] [Using dig command](https://linuxize.com/post/how-to-use-dig-command-to-query-dns-in-linux/)
 
 - `Testing SPF, DKIM, and DMARC Using Gmail`
 
@@ -95,7 +96,7 @@ is an email authentication technique that allows the receiver to check that an e
 `standard email authentication method`
 DMARC is a standard email authentication method. DMARC helps mail administrators prevent hackers and other attackers from spoofing their organization and domain. Spoofing is a type of attack in which the From address of an email message is forged.
 ```
-[Network tools](https://mxtoolbox.com/NetworkTools.aspx)
+- [x] [Network tools](https://mxtoolbox.com/NetworkTools.aspx)
 
 - Network tools to test various network services and find some information that woulld be usefull for `penetration testing` and  `Open source Intelligence`
 
@@ -128,7 +129,7 @@ secure-startup.com.	2210	IN	NS	ns69.domaincontrol.com.
 ```
 
 
-[pipl](https://pipl.com/)
+- [x] [pipl](https://pipl.com/)
 
 ```bash
 Pipl is a simple website for 'people search,' used by government organizations, financial and security institutions, and media organizations worldwide. It interacts with public and available database. It obtains crucial data from public sources and the deep web to offer concrete data about individuals, competencies, social networks, segments, and contacts associated with a specific person.
