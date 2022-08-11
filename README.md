@@ -56,7 +56,7 @@ viii. smart TVs, refrigerators, and anything else you can think of.
 
 - [x] Cybersecurity framework that provides a variet of OSINT technoologies too help you with intel and data collection.
 
-- [https://subdomainfinder.c99.nl/index.php](https://subdomainfinder.c99.nl/index.php)
+- [x] [https://subdomainfinder.c99.nl/index.php](https://subdomainfinder.c99.nl/index.php)
 
 - Intelligence tools to find subdomains
 
