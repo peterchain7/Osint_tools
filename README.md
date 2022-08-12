@@ -18,11 +18,11 @@ vi. wind turbines,
 vii. license plate readers, 
 viii. smart TVs, refrigerators, and anything else you can think of.
 ```
-
+<!--
 [GreyNoise Viewer](https://www.greynoise.io/)
 
 - [x]
-
+-->
 
 [PublicWWW - Heaven source code](https://publicwww.com/)
 
@@ -42,7 +42,7 @@ viii. smart TVs, refrigerators, and anything else you can think of.
 
 [https://www.abuseipdb.com/](https://www.abuseipdb.com/)
 
-- [x] Helps in SOC investigation.
+- [x]  A project dedicated to helping combat the spread of hackers, spammers, and abusive activity on the internet
 
 [Zoomeye](https://www.zoomeye.org/)
 
@@ -50,7 +50,7 @@ viii. smart TVs, refrigerators, and anything else you can think of.
 
 [Hunter.io](https://hunter.io/)
 
-- [x] Email Hunter, Is an email search application that helps marketers find contact information for  domain 🌝.
+- [x] Email Hunter, Is an email search application that helps in Open source Intelligence also In information gathering by finding email address related to member of particular organization by searching using the company domain name. (It finds informations form different sources online) 🌝.
 
 [OSINT framework](https://osintframework.com/)
 
@@ -58,7 +58,7 @@ viii. smart TVs, refrigerators, and anything else you can think of.
 
 - [x] [https://subdomainfinder.c99.nl/index.php](https://subdomainfinder.c99.nl/index.php)
 
-- Intelligence tools to find subdomains
+- Intelligence tools to find subdomains of a company web applications
 
 - [x] [https://github.com/sherlock-project/sherlock](https://github.com/sherlock-project/sherlock)
 
@@ -198,6 +198,7 @@ python theHarvester.py -d geekflare.com -v -b dnsdumpster
 
 - [x] [https://verifalia.com/validate-email](https://verifalia.com/validate-email)
 - [x] [https://tools.emailhippo.com](https://tools.emailhippo.com)
+- [x] And other more many.....
 
 ## Google is Not the Only Search Engine:
 
