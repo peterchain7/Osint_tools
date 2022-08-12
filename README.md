@@ -6,7 +6,9 @@ This repository is for OSINT
 
 [Shodan](https://www.shodan.io/)
 
-- [x] locate specific device on the internet. Eg
+- [x] locate specific devices on the internet to help with recconaissance or information gathering for `OSINT` and  penetration testing.
+
+* Example information about.
 
 ```bash 
 i. Webcams
