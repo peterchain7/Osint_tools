@@ -218,6 +218,15 @@ python theHarvester.py -d geekflare.com -v -b dnsdumpster
 - [x] [Yandex.com](https://yandex.com/)
 -  is a large Russian search engine.
 
+## SOCIAL MEDIA ANALYSIS TOOL.
+
+- [X] [Hashatit](https://www.hashatit.com/)
+`The free service allows users to search hashtags across all of the big social media platforms,`
+
+- [x] [snap map](map.snapchat.com)
+- you can see geotagged posts submitted by users from around the world. Cn help to know if any problem is happening in your place. eg. floods or any distater.
+
+- [x] 
 
 ####  REFERENCE
 
